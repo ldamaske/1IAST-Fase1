@@ -1,0 +1,13 @@
+name: 1IAST-Fase1
+channels:
+  - conda-forge
+dependencies:
+  - python=3.14
+  - pip
+  - black
+  - flake8
+  - isort
+  - pytest
+  - pip:
+    - python-dotenv
+    - -e .
