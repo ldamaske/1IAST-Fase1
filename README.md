@@ -10,17 +10,17 @@ O foco principal é analisar dados de NPS (Net Promoter Score) e variáveis rela
 
 ## Objetivo
 
--Analisar o comportamento dos clientes com base no NPS
--Identificar fatores que impactam a satisfação
--Explorar correlações entre variáveis operacionais e experiência
--Gerar insights acionáveis para melhoria de processos
+- Analisar o comportamento dos clientes com base no NPS
+- Identificar fatores que impactam a satisfação
+- Explorar correlações entre variáveis operacionais e experiência
+- Gerar insights acionáveis para melhoria de processos
 
 ## Tecnologias / Bibliotecas Utilizadas
-Pandas – manipulação de dados
-NumPy – operações numéricas
-Seaborn / Matplotlib – visualização de dados
-Jupyter Notebook – análise exploratória
-Scikit-learn
+- Pandas – manipulação de dados
+- NumPy – operações numéricas
+- Seaborn / Matplotlib – visualização de dados
+- Jupyter Notebook – análise exploratória
+- Scikit-learn
 
 ## Estrutura do Projeto
 ```
