@@ -10,33 +10,34 @@ O foco principal é analisar dados de NPS (Net Promoter Score) e variáveis rela
 
 ## Objetivo
 
--Analisar o comportamento dos clientes com base no NPS<br>
--Identificar fatores que impactam a satisfação<br>
--Explorar correlações entre variáveis operacionais e experiência<br>
+-Analisar o comportamento dos clientes com base no NPS
+-Identificar fatores que impactam a satisfação
+-Explorar correlações entre variáveis operacionais e experiência
 -Gerar insights acionáveis para melhoria de processos
 
 ## Tecnologias / Bibliotecas Utilizadas
-Pandas – manipulação de dados<br>
-NumPy – operações numéricas<br>
-Seaborn / Matplotlib – visualização de dados<br>
-Jupyter Notebook – análise exploratória<br>
+Pandas – manipulação de dados
+NumPy – operações numéricas
+Seaborn / Matplotlib – visualização de dados
+Jupyter Notebook – análise exploratória
 Scikit-learn
 
 ## Estrutura do Projeto
 ```
-1IAST-Fase1<br>
- ┣  Data_Science_Desafios.ipynb               # Notebook principal do desafio
+1IAST-Fase1
+ ┣               # Notebook principal do desafio
  ┣  environment.yml                           # Ambiente do projeto
  ┣  pyproject.toml                            # Configuração do projeto
  ┣  setup.cfg                                 # Configuração adicional
  ┣  Makefile                                  # Automação de tarefas
  ┣  notebooks/
- ┃ ┣  EDA.ipynb                               # Análise exploratória de dados
- ┃ ┣  tech_challenge_nps.ipynb                # Análise focada em NPS
- ┃ ┗  dict_dados.bin                          # Dicionário de dados
+ ┃ ┣  EDA.ipynb                               # Análise exploratória de dados inicial
+ ┃ ┣  Data_Science_Desafios.ipynb             # Análise exploratória focada em modelagem preditiva inicial
+ ┃ ┣  dict_dados.bin                          # Dicionário de dados
+ ┃ ┗  tech_challenge_nps.ipynb                # EDA e modelagem final de NPS com desafios
  ┣  nps_analysis/                             # Módulos Python do projeto
  ┣  models/                                   # Modelos treinados
- ┣  reports/<br>
+ ┣  reports/
  ┃ ┗ figures/                   # Visualizações geradas<br>
  ┣  tests/                       # Testes automatizados<br>
  ┣  docs/                        # Documentação adicional<br>
