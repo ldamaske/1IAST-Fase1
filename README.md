@@ -46,7 +46,7 @@ Scikit-learn
 
 ## Como Executar o Projeto
 
-### Clonar o repositório
+### Clonar repositório
 git clone https://github.com/ldamaske/1IAST-Fase1<br>
 cd 1IAST-Fase1
 
