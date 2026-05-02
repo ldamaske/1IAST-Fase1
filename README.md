@@ -31,9 +31,9 @@ Scikit-learn
  ┣  setup.cfg                                 # Configuração adicional<br>
  ┣  Makefile                                  # Automação de tarefas<br>
  ┣  notebooks/<br>
-   ┣  EDA.ipynb                               # Análise exploratória de dados<br>
-   ┣  tech_challenge_nps.ipynb                # Análise focada em NPS<br>
-   ┗  dict_dados.bin                          # Dicionário de dados<br>
+ ┃ ┣  EDA.ipynb                               # Análise exploratória de dados<br>
+ ┃ ┣  tech_challenge_nps.ipynb                # Análise focada em NPS<br>
+ ┃ ┗  dict_dados.bin                          # Dicionário de dados<br>
  ┣  nps_analysis/                             # Módulos Python do projeto<br>
  ┣  models/                                   # Modelos treinados<br>
  ┣  reports/<br>
