@@ -25,17 +25,17 @@ Scikit-learn
 ## Estrutura do Projeto
 
 1IAST-Fase1<br>
- ┣  Data_Science_Desafios.ipynb   # Notebook principal do desafio<br>
- ┣  environment.yml              # Ambiente do projeto<br>
- ┣  pyproject.toml               # Configuração do projeto<br>
- ┣  setup.cfg                    # Configuração adicional<br>
- ┣  Makefile                     # Automação de tarefas<br>
+ ┣  Data_Science_Desafios.ipynb               # Notebook principal do desafio<br>
+ ┣  environment.yml                           # Ambiente do projeto<br>
+ ┣  pyproject.toml                            # Configuração do projeto<br>
+ ┣  setup.cfg                                 # Configuração adicional<br>
+ ┣  Makefile                                  # Automação de tarefas<br>
  ┣  notebooks/<br>
-   ┣  EDA.ipynb                  # Análise exploratória de dados<br>
-   ┣  tech_challenge_nps.ipynb   # Análise focada em NPS<br>
-   ┗  dict_dados.bin             # Dicionário de dados<br>
- ┣  nps_analysis/                # Módulos Python do projeto<br>
- ┣  models/                      # Modelos treinados<br>
+   ┣  EDA.ipynb                               # Análise exploratória de dados<br>
+   ┣  tech_challenge_nps.ipynb                # Análise focada em NPS<br>
+   ┗  dict_dados.bin                          # Dicionário de dados<br>
+ ┣  nps_analysis/                             # Módulos Python do projeto<br>
+ ┣  models/                                   # Modelos treinados<br>
  ┣  reports/<br>
  ┃ ┗ figures/                   # Visualizações geradas<br>
  ┣  tests/                       # Testes automatizados<br>
@@ -47,11 +47,11 @@ Scikit-learn
 ## Como Executar o Projeto
 
 ### Clonar o repositório
-git clone https://github.com/ldamaske/1IAST-Fase1
+git clone https://github.com/ldamaske/1IAST-Fase1<br>
 cd 1IAST-Fase1
 
 ### Criar o ambiente
-conda env create -f environment.yml
+conda env create -f environment.yml<br>
 conda activate 1IAST-Fase1
 
 ### Executar os notebooks
