@@ -10,37 +10,37 @@ O foco principal é analisar dados de NPS (Net Promoter Score) e variáveis rela
 
 ## Objetivo
 
--Analisar o comportamento dos clientes com base no NPS
--Identificar fatores que impactam a satisfação
--Explorar correlações entre variáveis operacionais e experiência
+-Analisar o comportamento dos clientes com base no NPS<br>
+-Identificar fatores que impactam a satisfação<br>
+-Explorar correlações entre variáveis operacionais e experiência<br>
 -Gerar insights acionáveis para melhoria de processos
 
 ## Tecnologias / Bibliotecas Utilizadas
-Pandas – manipulação de dados
-NumPy – operações numéricas
-Seaborn / Matplotlib – visualização de dados
-Jupyter Notebook – análise exploratória
+Pandas – manipulação de dados<br>
+NumPy – operações numéricas<br>
+Seaborn / Matplotlib – visualização de dados<br>
+Jupyter Notebook – análise exploratória<br>
 Scikit-learn
 
 ## Estrutura do Projeto
 
-1IAST-Fase1
- ┣  Data_Science_Desafios.ipynb   # Notebook principal do desafio
- ┣  environment.yml              # Ambiente do projeto
- ┣  pyproject.toml               # Configuração do projeto
- ┣  setup.cfg                    # Configuração adicional
- ┣  Makefile                     # Automação de tarefas
- ┣  notebooks/
-   ┣  EDA.ipynb                  # Análise exploratória de dados
-   ┣  tech_challenge_nps.ipynb   # Análise focada em NPS
-   ┗  dict_dados.bin             # Dicionário de dados
- ┣  nps_analysis/                # Módulos Python do projeto
- ┣  models/                      # Modelos treinados
- ┣  reports/
- ┃ ┗ figures/                   # Visualizações geradas
- ┣  tests/                       # Testes automatizados
- ┣  docs/                        # Documentação adicional
- ┗  references/                  # Materiais de apoio
+1IAST-Fase1<br>
+ ┣  Data_Science_Desafios.ipynb   # Notebook principal do desafio<br>
+ ┣  environment.yml              # Ambiente do projeto<br>
+ ┣  pyproject.toml               # Configuração do projeto<br>
+ ┣  setup.cfg                    # Configuração adicional<br>
+ ┣  Makefile                     # Automação de tarefas<br>
+ ┣  notebooks/<br>
+   ┣  EDA.ipynb                  # Análise exploratória de dados<br>
+   ┣  tech_challenge_nps.ipynb   # Análise focada em NPS<br>
+   ┗  dict_dados.bin             # Dicionário de dados<br>
+ ┣  nps_analysis/                # Módulos Python do projeto<br>
+ ┣  models/                      # Modelos treinados<br>
+ ┣  reports/<br>
+ ┃ ┗ figures/                   # Visualizações geradas<br>
+ ┣  tests/                       # Testes automatizados<br>
+ ┣  docs/                        # Documentação adicional<br>
+ ┗  references/                  # Materiais de apoio<br>
 
 --------
 
